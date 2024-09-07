@@ -1,4 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# YourHUD Website
+This is the public facing/promotional website for the YourHUD mobile application. 
+
+The website can be found here: [https://www.yourhud.io/](url)
+
+The mobile application can be found here: [https://apps.apple.com/us/app/yourhud/id1605498880?platform=iphone](url)
+
+# Technologies
+
+1. React JS
+2. Next JS
+3. Typescript
+4. Tailwind CSS
+5. Fontawesome
+
+# Deployment
+
+Vercel is used for deployment
+
+Every change made in the *main* branch will result in a new build that is automatically deployed at the production url
+
+Every change made in the *testing* branch will result in a new build that is automatically deployed at the preview url 
+
+Production Builds: [https://github.com/Raamzeez/YourHUD-Website/deployments/Production](url)
+
+Preview Builds: [https://github.com/Raamzeez/YourHUD-Website/deployments/Preview](url)
 
 ## Getting Started
 
